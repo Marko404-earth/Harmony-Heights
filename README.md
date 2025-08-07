@@ -44,21 +44,20 @@
   <a href="https://www.example.com/twotter/hh" target="_blank">Twotter</a><br>
  
   <h2>Contact Us</h2>
-  <form>
-    <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name"><br><br>
+<form action="harmonyheightsacademy@gmail.com" method="post" enctype="text/plain">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name"><br><br>
 
-    <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email"><br><br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email"><br><br>
 
-    <label for="subject">Subject:</label><br>
-    <input type="text" id="subject" name="subject"><br><br>
+  <label for="subject">Subject:</label><br>
+  <input type="text" id="subject" name="subject"><br><br>
 
-    <label for="message">Message:</label><br>
-    <textarea id="message" name="message" rows="5" cols="40"></textarea><br><br>
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="5" cols="40"></textarea><br><br>
 
-    <input type="submit" value="Send">
-  </form>
-
+  <input type="submit" value="Send">
+</form>
 </body>
 </html>
